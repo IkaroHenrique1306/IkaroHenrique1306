@@ -1,7 +1,13 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Backend+Developer;.NET+%7C+Java+%7C+Python;Sistemas+Inteligentes+e+Automação)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Backend+Developer;C#+%7C+Java+%7C+Python;Sistemas+Inteligentes+e+Automação)
 # 👋 Olá, eu sou Ikaro Henrique
 
 💻 Desenvolvedor focado em backend, sistemas inteligentes e automação, com interesse em criar soluções eficientes, escaláveis e orientadas a dados.
+
+## 📌 Sobre mim
+
+- Focado em backend e arquitetura
+- Experiência com automação e IA
+- Desenvolvimento de APIs e sistemas inteligentes
 
 ---
 
