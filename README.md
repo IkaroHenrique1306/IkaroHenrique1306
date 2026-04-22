@@ -18,7 +18,7 @@
 
 ---
 
-### 🔹 Frameworks (Back-end)
+### 🔹 Frameworks
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
