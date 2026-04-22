@@ -27,12 +27,11 @@
 ### 🔹 Frameworks (Back-end)
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
 </p>
 
 
@@ -72,12 +71,11 @@
 ---
 
 ### 🔹 Outros 
-* 🤖 IA Experimental & Sistemas Inteligentes
-* 🔄 Automação com Selenium e Requests
-* 🔌 Arduino, ESP32/ESP8266
-* 🧪 JUnit / pytest
-* ☁️ VPS / Deploy
-* 🔄 CI/CD
+- 🤖 IA e Sistemas Inteligentes  
+- 🔄 Automação (Selenium, Requests)  
+- 🔌 Arduino / ESP32 / ESP8266  
+- 🧪 Testes (JUnit, pytest)  
+- ☁️ Infraestrutura (VPS, CI/CD)  
 
 ---
 
@@ -86,7 +84,7 @@
 
 ### 💰 Sistema de Controle de Gastos
 
-Sistema web desenvolvido com .NET e React para gerenciamento de receitas e despesas por pessoa.
+Sistema web para controle de gastos residenciais, desenvolvido com C# (.NET) no backend e React + TypeScript no frontend.
 
 **Principais pontos:**
 
