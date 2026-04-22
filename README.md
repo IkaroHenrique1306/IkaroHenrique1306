@@ -1,13 +1,14 @@
 # 👋 Olá, eu sou Ikaro Henrique
 
-💻 Desenvolvedor focado em backend, sistemas inteligentes e automação, com interesse em criar soluções eficientes, escaláveis e orientadas a dados.
+💻 Desenvolvedor focado em backend, automação e sistemas inteligentes, com ênfase em arquitetura e eficiência.
 
 ## 📌 Sobre mim
 
 - Focado em backend e arquitetura
 - Experiência com automação e IA
 - Desenvolvimento de APIs e sistemas inteligentes
-
+- Experiência com desenvolvimento fullstack (.NET + React)
+  
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -81,6 +82,20 @@
 ---
 
 ## 📌 Projetos em Destaque
+⚠️ *Alguns projetos são privados. Caso haja interesse em acesso completo ou demonstração detalhada, estou disponível para contato.*
+
+### 💰 Sistema de Controle de Gastos
+
+Sistema web desenvolvido com .NET e React para gerenciamento de receitas e despesas por pessoa.
+
+**Principais pontos:**
+
+* API REST em C# (.NET) com regras de negócio bem definidas
+* Frontend em React com TypeScript
+* Controle de transações, categorias e relatórios financeiros
+* Cálculo de totais e saldo por usuário
+
+---
 
 ### 🧠 Prometheus — Extensão Cognitiva Pessoal
 
@@ -116,23 +131,6 @@ Sistema de automação para monitoramento de encomendas com integração via API
 * Backend em Python com APIs REST
 * Automação de notificações via WhatsApp
 * Redução de processos manuais e aumento da eficiência operacional
-
----
-
-⚠️ *Alguns projetos são privados. Caso haja interesse em acesso completo ou demonstração detalhada, estou disponível para contato.*
-
----
-
-### 💰 Sistema de Controle de Gastos
-
-Sistema web desenvolvido com .NET e React para gerenciamento de receitas e despesas por pessoa.
-
-**Principais pontos:**
-
-* API REST em C# (.NET) com regras de negócio bem definidas
-* Frontend em React com TypeScript
-* Controle de transações, categorias e relatórios financeiros
-* Cálculo de totais e saldo por usuário
 
 ---
 
