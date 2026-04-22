@@ -119,6 +119,10 @@ Sistema de automação para monitoramento de encomendas com integração via API
 
 ---
 
+⚠️ *Os sistemas ácima são privados tendo apenas uma DEMO para exemplo, caso tenha interesse no projeto completo entrar em contato*
+
+---
+
 ### 💰 Sistema de Controle de Gastos
 
 Sistema web desenvolvido com .NET e React para gerenciamento de receitas e despesas por pessoa.
