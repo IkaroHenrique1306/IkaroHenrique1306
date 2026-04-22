@@ -130,9 +130,9 @@ Sistema web desenvolvido com .NET e React para gerenciamento de receitas e despe
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO](https://github.com/IkaroHenrique1306)\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IkaroHenrique1306\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO](https://github.com/IkaroHenrique1306)\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/IkaroHenrique1306\&layout=compact\&theme=tokyonight)
 
 ---
 
