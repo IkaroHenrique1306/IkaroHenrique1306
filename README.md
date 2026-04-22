@@ -119,7 +119,7 @@ Sistema de automação para monitoramento de encomendas com integração via API
 
 ---
 
-⚠️ *Os sistemas ácima são privados tendo apenas uma DEMO para exemplo, caso tenha interesse no projeto completo entrar em contato*
+⚠️ *Os sistemas acima são privados tendo apenas uma DEMO para exemplo, caso tenha interesse no projeto completo entrar em contato*
 
 ---
 
