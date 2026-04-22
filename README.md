@@ -23,7 +23,7 @@
 
 ---
 
-### 🔹 Frameworks
+### 🔹 Frameworks (Back-end)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
@@ -119,7 +119,7 @@ Sistema de automação para monitoramento de encomendas com integração via API
 
 ---
 
-⚠️ *Os sistemas acima são privados tendo apenas uma DEMO para exemplo, caso tenha interesse no projeto completo entrar em contato*
+⚠️ *Alguns projetos são privados. Caso haja interesse em acesso completo ou demonstração detalhada, estou disponível para contato.*
 
 ---
 
