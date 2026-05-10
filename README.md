@@ -132,16 +132,6 @@ Sistema de automação para monitoramento de encomendas com integração via API
 
 ---
 
-## 📊 Estatísticas
-
-⚠️ *Os gráficos consideram apenas repositórios públicos.*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkaroHenrique1306\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkaroHenrique1306\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ikaro-alexandre/)
