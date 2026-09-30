@@ -95,19 +95,6 @@ Sistema web para controle de gastos residenciais, desenvolvido com C# (.NET) no 
 
 ---
 
-### 🧠 Prometheus — Extensão Cognitiva Pessoal
-
-Sistema de automação avançada com IA experimental focado em execução de tarefas, memória contextual e personalização de interações.
-
-**Principais pontos:**
-
-* Arquitetura de sistemas inteligentes e automação de tarefas complexas
-* Desenvolvimento com Java e Python integrado a APIs
-* Implementação de comportamento adaptativo e memória contextual
-* Execução automatizada de comandos e personalização de interações
-
----
-
 ### 🤖 Shinsekai IA Auxiliar
 
 Protótipo de inteligência artificial voltado para análise de padrões e suporte à tomada de decisão.
