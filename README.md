@@ -2,13 +2,6 @@
 
 💻 Desenvolvedor focado em backend, automação e sistemas inteligentes, com ênfase em arquitetura e eficiência.
 
-## 📌 Sobre mim
-
-- Focado em backend e arquitetura
-- Experiência com automação e IA
-- Desenvolvimento de APIs e sistemas inteligentes
-- Experiência com desenvolvimento fullstack (.NET + React)
-  
 ---
 
 ## 🚀 Tecnologias e Ferramentas
